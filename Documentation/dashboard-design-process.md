@@ -31,7 +31,22 @@ Key issues identified:
 | **Balance Sheet** | Assets, Liabilities, Equity | Real-time balance validation |
 | **Cash Flow** | Operating, Investing, Financing | Tracks cash movement and closing balance |
 | **Budget vs Actual** | Budget $, Actual $, Variance $, Var % | Variance analysis and performance tracking |
- 
+
+---
+
+# Validation & Quality Control
+
+The model incorporates multiple control mechanisms.
+
+### Validation Procedures
+
+* Balance Sheet balancing checks
+* Formula auditing
+* Cross-sheet reference validation
+* Input/output separation
+* Error prevention controls
+* Financial statement consistency checks
+
 ---
 
 # Challenges Encountered & Solutions
