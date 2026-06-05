@@ -33,4 +33,158 @@ This project integrates **financial modeling, dynamic dashboards, and clean desi
     - 🔵 Inputs  
     - ⚫ Formulas  
     - 🟢 Cross-sheet links  
-  - Alternating row fills, section headers, and gridline-free layout for presentation-ready visuals  
+  - Alternating row fills, section headers, and gridline-free layout for presentation-ready visuals
+ 
+
+---
+
+## 🗂️ Repository Structure
+
+```text
+Financial-Toolkit-Pro/
+│
+├── README.md
+│
+├── assets/
+│   ├── dashboard-preview.png
+│   ├── income-statement-preview.png
+│   ├── balance-sheet-preview.png
+│   └── cash-flow-preview.png
+│
+├── workbook/
+│   └── Financial_Toolkit_Pro.xlsx
+│
+└── documentation/
+    ├── project-overview.md
+    ├── dashboard-design-process.md
+    ├── financial-model-architecture.md
+    └── testing-validation.md
+```
+
+---
+
+# Workbook Structure
+
+```text
+Dashboard
+│
+├── Assumptions
+│
+├── Income Statement
+│
+├── Balance Sheet
+│
+├── Cash Flow
+│
+└── Budget vs Actual
+```
+
+All sheets are fully integrated through the centralized assumptions engine and financial statement relationships.
+
+---
+
+# Dataset Schema
+
+The workbook utilizes internally generated financial model assumptions rather than an external dataset.
+
+---
+
+## Assumptions Inputs
+
+| Category             | Description                 |
+| -------------------- | --------------------------- |
+| Revenue Growth       | Forecast growth assumptions |
+| Gross Margin         | Profitability assumptions   |
+| Operating Expenses   | Cost assumptions            |
+| Tax Rate             | Effective tax assumptions   |
+| Working Capital Days | Cash conversion assumptions |
+
+---
+
+## Income Statement Metrics
+
+| Metric             |
+| ------------------ |
+| Revenue            |
+| COGS               |
+| Gross Profit       |
+| Operating Expenses |
+| EBIT               |
+| PBT                |
+| Tax                |
+| Net Profit         |
+
+---
+
+## Balance Sheet Metrics
+
+| Metric              |
+| ------------------- |
+| Cash                |
+| Accounts Receivable |
+| Inventory           |
+| Fixed Assets        |
+| Accounts Payable    |
+| Debt                |
+| Equity              |
+
+---
+
+
+# Requirements
+
+## Software
+
+* Microsoft Excel 365 (Recommended)
+* Microsoft Excel 2021 and above
+
+
+## Features Utilized
+
+* Advanced formulas
+* Cross-sheet references
+* Dynamic dashboards
+* Financial statement modeling
+* Conditional formatting
+* Workbook protection
+* Executive KPI reporting
+
+---
+
+# Skills Demonstrated
+
+* Financial Modeling
+* Financial Planning & Analysis (FP&A)
+* Business Analysis
+* Dashboard Design
+* Spreadsheet Engineering
+* KPI Reporting
+* Budgeting & Forecasting
+* Financial Statement Development
+* User Experience Design
+* Management Reporting
+
+---
+
+# Hashtags
+
+#Excel
+#FinancialModeling
+#FPandA
+#BusinessAnalytics
+#DashboardDesign
+#FinancialAnalysis
+#CorporateFinance
+#ManagementReporting
+#SpreadsheetEngineering
+#MicrosoftExcel
+#FinanceToolkit
+#BusinessIntelligence
+#DataVisualization
+#Budgeting
+#Forecasting
+#KPIReporting
+#PortfolioProject
+#FinanceDashboard
+#ExcelDashboard
+#FinancialPlanning
